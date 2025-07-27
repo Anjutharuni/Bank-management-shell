@@ -28,17 +28,21 @@ chmod +x bank.sh
 ./bank.sh
 ```
 
-⚙️ Requirements
+##⚙️ Requirements
 Make sure dialog is installed:
-
+```bash
 sudo apt install dialog
+```
 
-📁 Project Structure
+##📁 Project Structure
+```bash
 bank-management-shell/
 ├── bank.sh           # Main script
 ├── accounts/         # Stores individual account files
 ├── .gitignore
 └── README.md
+```
 
-⚠️ Disclaimer
+##⚠️ Disclaimer
+
 This is a beginner-level educational project and should not be used for actual banking. All account data is stored in plain text.
