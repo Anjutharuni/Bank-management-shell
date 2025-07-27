@@ -1,5 +1,3 @@
-# bank-management-shell
-A terminal-based bank account management system using Bash scripting and Dialog in Unix/Linux
 # 🏦 Bank Account Management System (Shell Script + Dialog)
 
 A terminal-based bank account management system built using **Bash shell scripting** and **Dialog UI** on Unix/Linux systems.
@@ -29,11 +27,9 @@ A terminal-based bank account management system built using **Bash shell scripti
 chmod +x bank.sh
 ./bank.sh
 
-## ⚙️ Requirements
+⚙️ Requirements
+Make sure dialog is installed:
 
-Make sure `dialog` is installed:
-
-```bash
 sudo apt install dialog
 
 📁 Project Structure
@@ -45,7 +41,3 @@ bank-management-shell/
 
 ⚠️ Disclaimer
 This is a beginner-level educational project and should not be used for actual banking. All account data is stored in plain text.
-
-
-
-
