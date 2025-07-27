@@ -2,6 +2,8 @@
 
 A terminal-based bank account management system built using **Bash shell scripting** and **Dialog UI** on Unix/Linux systems.
 
+---
+
 ## 📌 Features
 
 - Create Account (auto-generated account number)
@@ -14,12 +16,16 @@ A terminal-based bank account management system built using **Bash shell scripti
 - View Full Account Details
 - Password-Protected Access
 
+---
+
 ## 💻 Technologies Used
 
 - Bash Shell Scripting
 - Dialog (for GUI-style prompts in terminal)
 - Linux Commands (`grep`, `sed`, `awk`, `bc`, `shuf`, etc.)
 - File-based storage for account data
+
+---
 
 ## 🧪 How to Run
 
