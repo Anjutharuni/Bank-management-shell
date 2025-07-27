@@ -26,6 +26,7 @@ A terminal-based bank account management system built using **Bash shell scripti
 ```bash
 chmod +x bank.sh
 ./bank.sh
+```
 
 ⚙️ Requirements
 Make sure dialog is installed:
